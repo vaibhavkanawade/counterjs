@@ -1,0 +1,27 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+div{
+    display: flex;
+    
+    background-color: aqua;
+    margin: 20px 30px 40px 30px;
+    padding: 20px 20px 20px;
+ flex-direction: column;
+    width: 300px;
+  
+}
+.counter1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter2{
+    width: 200px;
+display: flex;
+gap: 20px;
+}
